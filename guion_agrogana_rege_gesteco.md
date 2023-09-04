@@ -62,3 +62,10 @@ Se refiere a los conceptos de la ecología que abordamos en esta parada:
 ![6](https://github.com/aprendiendo-cosas/C_agrogana_rege_gesteco/raw/main/images/6.JPG)
 
 
+
+## Vídeo realizado por los estudiantes
+
+<iframe width="560" height="515" src="https://www.youtube.com/embed/pxYTLZkWLRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
